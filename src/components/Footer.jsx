@@ -3,7 +3,7 @@ import petro from "../assets/huj.png";
 import { TfiEmail } from "react-icons/tfi";
 import { FaPhoneVolume, FaMapLocationDot } from "react-icons/fa6";
 import lih from "../assets/lih (2).png";
-import lihw from "../assets/lih3.PNG";
+import lihw from "../assets/lih3.png";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
 const Footer = () => {
   return (
